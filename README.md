@@ -4,4 +4,8 @@
 - aslformer: transformer for asl->english
   - not ready (source Sometime<sup>TM</sup>)
 - marionette: simple super-server in rust
-  - almost ready (source Soon<sup>TM</sup>)
+  - https://github.com/viridivn/marionette
+- renspired: LLM access on the TI-Nspire
+  - Almost ready (source Soon<sup>TM</sup>)
+- Strider: OSHW Meshtastic node
+  - Almost ready (source Soon<sup>TM</sup>)
