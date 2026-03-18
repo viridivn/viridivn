@@ -6,6 +6,6 @@
 - marionette: simple super-server in rust
   - https://github.com/viridivn/marionette
 - renspired: LLM access on the TI-Nspire
-  - https://github.com/viridivn/renspired
+  - [Removed for being too cool]
 - Strider: OSHW Meshtastic node
   - Almost ready (source Soon<sup>TM</sup>)
